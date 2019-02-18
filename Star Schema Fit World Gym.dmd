@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Star Schema Fit World Gym" id="F90DB866-937B-4F5D-FC44-3E32C795E5C2" version="3.5">
+<createdBy>Rohan</createdBy>
+<createdTime>2016-07-21 19:14:15 UTC</createdTime>
+<ownerDesignName>Star Schema Fit World Gym</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F90DB866-937B-4F5D-FC44-3E32C795E5C2</designId>
+</OSDM_Design>
